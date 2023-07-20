@@ -1,22 +1,42 @@
+# S H I F T + R U N / S T O P
+
+!(imgs/BlankExit.png)
+
+## about
+
+!(imgs/libre1.png)
+
+I do a lot of hardware hacking, librebooting, radio-hacking. I have a fondness
+for old hardware/computers. In researching them I learn more about how computers
+really work which is a tough process when everyting is one abstraction layer on
+top of another nowadays. Formative experience with the C64 has led me on a path of
+embedded systems where memory and processing restrictions are still in place.
+
+Projects are listed below but these are not very active anymore, the real projects
+are contained in private repos until the prototypes are finsihsed.
+
+## Projects
+
+### 6502
+With the ambitionof learnign the semantics of cpp, I started creating an 8-bit
+CPU emulator using the 6502 instruction set with 64kb of addressabel memory. It
+is a long way off of finishing, and when I have time will be most converted
+to a pure C program.
+
+### qdws
+The quick and dirty web scraper, this is what happens wen you want to make a
+very simple web scraper. most useless tool out there.
+
+### J U N KE R S
+2D platforming engine written in C utilising SDL2, far from finished, the art
+takes me a while to complete, working on an accompanying short story to flesh out
+the universe. Coming when it's ready.
+
+
 ### >_ ▟
 
+◤◢◤◢◤◢◤◢ **Aesthetics rule me to where there is little substance** ◤◢◤◢◤◢◤◢
 
+I configure myself as much as my machines
 
-<!--
-**shift-runstop/shift-runstop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/shift-runstop/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/shift-runstop/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/shift-runstop/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
--->
+https://shift-runstop.xyz <- [under maintenance]
