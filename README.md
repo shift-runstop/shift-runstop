@@ -19,7 +19,8 @@ are contained in private repos until the prototypes are finsihsed.
 With the ambition of learning the semantics of cpp, I started creating an 8-bit
 CPU emulator using the 6502 instruction set with 64kb of addressable memory. It
 is a long way off from finishing, and when I have time will be most converted
-to a pure C program.
+to a pure C program. This has been a great way of learning assembly, computer
+architecture and the meaning of instructions. I do hope to develop this further.
 
 ### qdws
 The quick and dirty web scraper, this is what happens wen you want to make a
